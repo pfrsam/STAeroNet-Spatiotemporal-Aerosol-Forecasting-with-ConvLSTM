@@ -27,6 +27,7 @@ STAeroNet/
 │
 ├── STAeroNet.ipynb          # Full project notebook
 ├── README.md                # Project documentation
+└── convlstm_forecaster_best.pth           # Saved trained model
 ````
 
 ---
